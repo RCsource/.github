@@ -1,19 +1,22 @@
-# RubyCats
 
-studio for the development of everything
+![](https://cdn.discordapp.com/attachments/1047795672520339488/1118161998262317106/8_20230215020604.png)
+_meow_
 
-# what are we doing?
+## Contributors
 
-we do everything! starting from Ruby and Python utilities and ending with creating your own linux distribution!
+- [@setscript](https://github.com/setscript)
+- [@saladware](https://github.com/saladware)
+- [@maxim (a.k.a ZetHange)](https://github.com/zethange)
+- [@resweirdoo](https://github.com/resweirdoo)
+- [@xinefs](https://github.com/xinefs)
 
-# our goal?
+## About us...
 
-our goal is to create cool utilities, programs, and so on with open source. We hope that someone will be inspired by our projects and will create something better!
+We are small developers studio, that makes the IT world a little bit better. Also we are developing are our own programming language.
 
-# find us?
+## Find us?
 
-we have our own telegram channel -> https://t.m/rubycoding
+- [Telegram](https://t.me/rubycoding)
+- [Email to us](mailto:RubyCats@bk.ru)
+- [Raccoon's Burrow (Telegram)](https://t.me/raccoonfoundation)
 
-# having problems?
-
-in each readme of the project there is a way to contact the developer, try it!
